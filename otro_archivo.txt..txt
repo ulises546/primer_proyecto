@@ -1,6 +1,6 @@
 =TITULO2 
-OTRA lienas en master (modificado)
-nueva lienea en rama master (nueva)
+OTRA lienas en master (modificado en rama beta)
+nueva lienea en rama master (nueva modificacion en rama beta)
 MAS LINEAS
 
 nueva lienea en rama Mas lienas 1

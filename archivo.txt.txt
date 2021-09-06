@@ -1,7 +1,7 @@
 TITULO=
 LINEA UNO 
-LINEA TRES (modificada en rama conflicto)
+LINEA TRES (modificada en rama beta)
 TITULO=
-LINEA UNO 
+LINEA UNO ( modificado en rama beta) 
 LINEA DOS
 LINEA TRES
