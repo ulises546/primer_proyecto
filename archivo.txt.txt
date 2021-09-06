@@ -1,6 +1,6 @@
 TITULO=
 LINEA UNO 
-LINEA TRES
+LINEA TRES (modificada en rama conflicto)
 
 TITULO=
 LINEA UNO 
