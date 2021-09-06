@@ -1,7 +1,6 @@
 TITULO=
 LINEA UNO 
-LINEA TRES (modificado en rama master)
-
+LINEA TRES (modificada en rama conflicto)
 TITULO=
 LINEA UNO 
 LINEA DOS
